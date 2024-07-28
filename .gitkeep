@@ -1,0 +1,6 @@
+lib/
+    features/
+        home/
+            view/
+                screens/
+                widgets/
